@@ -1,6 +1,4 @@
-<script>
-import 'primevue/resources/themes/aura-light-green/theme.css';
-</script>
+<script></script>
 
 <template>
   <NuxtLayout>
